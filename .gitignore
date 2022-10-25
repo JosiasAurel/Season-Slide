@@ -1,0 +1,4 @@
+game
+zig-cache
+*.o
+*.env
